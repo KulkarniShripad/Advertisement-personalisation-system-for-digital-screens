@@ -8,4 +8,4 @@ YOLO v5 models architecture is used for training the fashion detector model
 
 
 
-Note : The yolov5 folder is the clone of yolov5 reposetory. The changed files and folders present in the folder are edited or changed
+Note : The yolov5 folder is the clone of yolov5 repository(https://github.com/ultralytics/yolov5). The files present in the folder(yolov5) are to be added or replaced in the cloned repository.
